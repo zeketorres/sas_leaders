@@ -1,7 +1,14 @@
 # Zeke Torres
 
-# Leadership Credentials
+# Member Links
+|Link to |
+|--------|
+|[SASENSEI](https://sasensei.com/user/zeketorres)      |
+|[LinkedIn](https://www.linkedin.com/in/zeketorres/)   |
+|[Facebook](https://www.facebook.com/zeke.torres312)   |
+|[GIT](https://github.com/zeketorres)                  |
 
+# Leadership Credentials
 
 |Category          |General Description      |
 |------------------|-------------------------|
