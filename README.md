@@ -37,16 +37,30 @@ Each of these categories are ones which this peer group feels are relevant to so
 
 
 # Recognized SAS User Groups
-|Name   |Link    | Description | Purpose |
-|-------|--------|-------------|---------|
-|WCSUG - Windy City SAS User Group | Link | Chicago Area SAS User Group | General SAS Topics. Local and Online|
-|SASENSEI | Link | Peer Question and Answer Challenge Point Group | Online. Points. Challenge and competition learning site |
+|Name                                 |Link  | Description | Purpose |
+|-------------------------------------|--------------------------------------------------------------|-------------|---------|
+|WCSUG - Windy City SAS User Group    | [Link](https://wcsug.com/)                                   | Chicago Area SAS User Group                    | General SAS Topics. Local and Online                    |
+|SASENSEI                             | [Link](https://sasensei.com/leaderboard/United%20States/all) | Peer Question and Answer Challenge Point Group | Online. Points. Challenge and competition learning site |
+|SCSUG - South Central SAS User Group |                                                              |                |      |
+|SESUG - South East SAS User Group    |                                                              |                |      |
+|MWSUG - Midwest SAS User Group       |                                                              |                |      |
+|PharmaSUG                            |                                                              |                |Special Interest SAS, Python, R - Pharma related|
 
 
 # Membership Roster
 |Name          |Location       | Credentials  |
 |--------------|---------------|--------------|
 |Zeke Torres   |Chicago, USA   | [Link](https://github.com/zeketorres/sas_leaders/blob/main/membership/torres_zeke.md) |
+
+
+# Other Useful Links
+|Name               |Link                                    | Description | Purpose |
+|-------------------|----------------------------------------|-------------|---------|
+|SAS Communities    |[Link](https://communities.sas.com/)    |             |         |
+|Lexjansen          |[Link](https://www.lexjansen.com/)      |             |         |
+
+
+
 
 
 
