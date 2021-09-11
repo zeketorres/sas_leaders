@@ -1,12 +1,12 @@
-# Sample Name
+# Allan Bowe
 
 # Member Links
 |Link to |
 |--------|
-|[SASENSEI](https://sasensei.com/user/zeketorres)      |
-|[LinkedIn](https://www.linkedin.com/in/zeketorres/)   |
-|[Facebook](https://www.facebook.com/zeke.torres312)   |
-|[GIT](https://github.com/zeketorres)                  |
+|[SASENSEI]()   |
+|[LinkedIn]()   |
+|[Facebook]()   |
+|[GIT]     ()   |
 
 # Leadership Credentials - Brief
 
@@ -20,5 +20,5 @@
 # Specific Credentials
 |Certified By      |Credential Type   |Description                     |
 |------------------|------------------|--------------------------------|
-|Name of peer      |Speaker/Presenter |  Spoke at MWSUG 2039        |
+|Name of peer      |Speaker/Presenter |  Spoke at MWSUG 2019        |
 

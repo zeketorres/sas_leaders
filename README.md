@@ -48,9 +48,14 @@ Each of these categories are ones which this peer group feels are relevant to so
 
 
 # Membership Roster
-|Name          |Location       | Credentials  |
-|--------------|---------------|--------------|
-|Zeke Torres   |Chicago, USA   | [Link](https://github.com/zeketorres/sas_leaders/blob/main/membership/torres_zeke.md) |
+|Name                  |Location       | Credentials  |
+|----------------------|---------------|--------------|
+|Zeke Torres           |Chicago, USA   |[Link](https://github.com/zeketorres/sas_leaders/blob/main/membership/torres_zeke.md) |
+|Allan Bowe            |Europe         |[Link]( )     |
+|Bart Jablonski        |Poland         |[Link]( )     |
+|Kiran Venna           |Toronto, Canada|[Link]( )     |
+|Tony Mayo             |Chicago, USA   |[Link]( )     |
+
 
 
 # Other Useful Links
