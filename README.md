@@ -23,6 +23,13 @@ Each of these categories are ones which this peer group feels are relevant to so
 ## Training
 ## Group Management
 
+# Recognized SAS User Groups
+|Name   |Link    | Description | Purpose |
+|WCSUG - Windy City SAS User Group | Link | Chicago Area SAS User Group | General SAS Topics. Local and Online|
+|SASENSEI | Link | Peer Question and Answer Challenge Point Group | Online. Points. Challenge and competition learning site |
+
+
+
 
 # Speaker/Presenter
 This is someone who has presented and delivered a topic to a group. Either in person or online.
