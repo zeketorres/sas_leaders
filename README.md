@@ -41,10 +41,10 @@ Each of these categories are ones which this peer group feels are relevant to so
 |-------------------------------------|--------------------------------------------------------------|-------------|---------|
 |WCSUG - Windy City SAS User Group    | [Link](https://wcsug.com/)                                   | Chicago Area SAS User Group                    | General SAS Topics. Local and Online                    |
 |SASENSEI                             | [Link](https://sasensei.com/leaderboard/United%20States/all) | Peer Question and Answer Challenge Point Group | Online. Points. Challenge and competition learning site |
-|SCSUG - South Central SAS User Group |                                                              |                |      |
-|SESUG - South East SAS User Group    |                                                              |                |      |
-|MWSUG - Midwest SAS User Group       |                                                              |                |      |
-|PharmaSUG                            |                                                              |                |Special Interest SAS, Python, R - Pharma related|
+|SCSUG - South Central SAS User Group | [Link](https://www.scsug.org/)                               |                |      |
+|SESUG - South East SAS User Group    | [Link](https://www.sesug.org/)                               |                |      |
+|MWSUG - Midwest SAS User Group       | [Link](https://www.mwsug.org/)                               |                |      |
+|PharmaSUG                            | [Link](https://www.pharmasug.org/)                           |                |Special Interest SAS, Python, R - Pharma related|
 
 
 # Membership Roster
@@ -54,15 +54,12 @@ Each of these categories are ones which this peer group feels are relevant to so
 
 
 # Other Useful Links
-|Name               |Link                                    | Description | Purpose |
-|-------------------|----------------------------------------|-------------|---------|
-|SAS Communities    |[Link](https://communities.sas.com/)    |             |         |
-|Lexjansen          |[Link](https://www.lexjansen.com/)      |             |         |
-
-
-
-
-
+|Name                 |Link                                               | Description |
+|---------------------|---------------------------------------------------|-------------|
+|SAS Communities      |[Link](https://communities.sas.com/)               |SAS Hosted User Community                    |
+|Lexjansen            |[Link](https://www.lexjansen.com/)                 |SAS User Paper Archive                       |
+|SAS Programmers FB   |[Link](https://www.facebook.com/groups/7189916198) |Public/Open SAS Focused Facebook group       |
+|SAS User Events Page |[Link](https://www.sasusergroups.org/events.html)  |Events sourced from Meetup                   |
 
 
 
