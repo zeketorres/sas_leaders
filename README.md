@@ -48,14 +48,31 @@ Each of these categories are ones which this peer group feels are relevant to so
 
 
 # Membership Roster
-|Name                  |Location       | Credentials  |
-|----------------------|---------------|--------------|
-|Zeke Torres           |Chicago, USA   |[Link](https://github.com/zeketorres/sas_leaders/blob/main/membership/torres_zeke.md)         |
-|Allan Bowe            |Europe         |[Link](https://github.com/zeketorres/sas_leaders/blob/main/membership/bowe_allan.md )         |
-|Bart Jablonski        |Poland         |[Link](https://github.com/zeketorres/sas_leaders/blob/main/membership/jablonski_bart.md )     |
-|Kiran Venna           |Toronto, Canada|[Link](https://github.com/zeketorres/sas_leaders/blob/main/membership/venna_kiran.md )        |
-|Tony Mayo             |Chicago, USA   |[Link](https://github.com/zeketorres/sas_leaders/blob/main/membership/mayo_tony.md )          |
-
+|Name                           |Location       | Credentials  |
+|-------------------------------|---------------|--------------|
+|Zeke Torres                    |Chicago, USA   |[Link](https://github.com/zeketorres/sas_leaders/blob/main/membership/torres_zeke.md)               |
+|Allan Bowe                     |Europe         |[Link](https://github.com/zeketorres/sas_leaders/blob/main/membership/bowe_allan.md )               |
+|Bart Jablonski                 |Poland         |[Link](https://github.com/zeketorres/sas_leaders/blob/main/membership/jablonski_bart.md )           |
+|Kiran Venna                    |Toronto, Canada|[Link](https://github.com/zeketorres/sas_leaders/blob/main/membership/venna_kiran.md )              |
+|Tony Mayo                      |Chicago, USA   |[Link](https://github.com/zeketorres/sas_leaders/blob/main/membership/mayo_tony.md )                |
+|Chris Hemedinger               |USA            |[Link](https://github.com/zeketorres/sas_leaders/blob/main/membership/hemedinger_chris.md )         |
+|Charu Shankar                  |Canada         |[Link](https://github.com/zeketorres/sas_leaders/blob/main/membership/shankar_charu.md )            |
+|Alexy Khozan                   |Chicago, USA   |[Link](https://github.com/zeketorres/sas_leaders/blob/main/membership/khozan_alexy.md )             |
+|Paresh Patel                   |Chicago, USA   |[Link](https://github.com/zeketorres/sas_leaders/blob/main/membership/patel_paresh.md )             |
+|Jason Brinkley                 |USA            |[Link](https://github.com/zeketorres/sas_leaders/blob/main/membership/brinkley_jason.md )           |
+|Josh Horstman                  |USA            |[Link](https://github.com/zeketorres/sas_leaders/blob/main/membership/horstman_josh.md )            |
+|Steven Myers                   |USA            |[Link](https://github.com/zeketorres/sas_leaders/blob/main/membership/myers_steven.md )             |
+|Mark Jordan                    |USA            |[Link](https://github.com/zeketorres/sas_leaders/blob/main/membership/jordan_mark.md )              |
+|Kim Lebouton                   |California, USA|[Link](https://github.com/zeketorres/sas_leaders/blob/main/membership/lebouton_kim.md )             |
+|Nancy Brucken                  |USA            |[Link](https://github.com/zeketorres/sas_leaders/blob/main/membership/brucken_nancy.md )            |
+|DeDe Naomi Schreiber-Gregory   |USA            |[Link](https://github.com/zeketorres/sas_leaders/blob/main/membership/schreiber_gregory_dede.md)    |
+|Ron Fehd                       |USA            |[Link](https://github.com/zeketorres/sas_leaders/blob/main/membership/fehd_ron.md )                 |
+|Kushal Pokhrel                 |Nepal          |[Link](https://github.com/zeketorres/sas_leaders/blob/main/membership/pokhrel_kushal.md )           |
+|David Corliss                  |USA            |[Link](https://github.com/zeketorres/sas_leaders/blob/main/membership/corliss_david.md )            |
+|Pablo Nogueras                 |USA            |[Link](https://github.com/zeketorres/sas_leaders/blob/main/membership/nogueras_pablo.md )           |
+|Perry Bratis                   |USA            |[Link](https://github.com/zeketorres/sas_leaders/blob/main/membership/bratis_perry.md )             |
+|Michelle Buchecker             |Chicago, USA   |[Link](https://github.com/zeketorres/sas_leaders/blob/main/membership/buchecker_michelle.md )       |
+|Stephanie Halker Tysinger      |USA            |[Link](https://github.com/zeketorres/sas_leaders/blob/main/membership/tysinger_stephanie.md)        |
 
 
 # Other Useful Links
