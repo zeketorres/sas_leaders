@@ -44,9 +44,9 @@ Each of these categories are ones which this peer group feels are relevant to so
 
 
 # Membership Roster
-|Name          |Location       |LinkedIn |SASENSEI | Credentials |
-|--------------|---------------|---------|---------|-------------|
-|Zeke Torres   |Chicago, USA   |Link     |Link     | Link        |
+|Name          |Location       | Credentials  |
+|--------------|---------------|--------------|
+|Zeke Torres   |Chicago, USA   | [Link](https://github.com/zeketorres/sas_leaders/blob/main/membership/torres_zeke.md) |
 
 
 
